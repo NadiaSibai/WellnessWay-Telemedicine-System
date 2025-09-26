@@ -46,15 +46,9 @@ The goal of **WellnessWay** is to provide a **unified telemedicine platform** th
 - **Database**: MySQL  
 - **Modeling**: ER/EER diagrams  
 - **Design**: Prototyping tools (e.g., draw.io, proto.io)  
-- **Methodology**: Software Engineering principles (requirements, design, implementing "DB" testing)  
+- **Methodology**: Software Engineering principles (requirements, design, implementing, testing)  
 
 ---
 
-## 🚀 Future Work  
 
-- Frontend implementation for patient and provider portals  
-- AI-driven prescription and appointment recommendations  
-- Mobile application for easier access to healthcare services  
-
----
 
