@@ -1,67 +1,60 @@
-# WellnessWay-Telemedicine-System
-WellnessWay is a healthcare management system designed to enhance the medical experience for patients, doctors, pharmacies, labs, radiology departments, and billing services. The platform focuses on improving accessibility, efficiency, and coordination in healthcare delivery.
-WellnessWay is a healthcare management system designed to enhance the medical experience for patients, doctors, pharmacies, labs, radiology departments, and billing services. The system focuses on accessibility, efficiency, and collaboration, making healthcare more seamless and user-friendly.
+# WellnessWay – Telemedicine System  
 
-📌 Features
+**WellnessWay** is a healthcare management system designed to enhance the medical experience for patients, doctors, pharmacies, labs, radiology departments, and billing services. The system focuses on **accessibility, efficiency, and collaboration**, making healthcare more seamless and user-friendly.  
 
-Patient Services
+---
 
-Online appointment scheduling
+## 📌 Features  
 
-Access to medical records
+- **Patient Services**
+  - Online appointment scheduling  
+  - Access to medical records  
+  - Prescription management  
+  - Home healthcare services  
 
-Prescription management
+- **Healthcare Providers**
+  - Doctor-patient communication  
+  - Pharmacy integration for prescriptions and deliveries  
+  - Lab and radiology coordination  
+  - Billing and insurance processing  
 
-Home healthcare services
+- **Pharmacy & Billing**
+  - Medication tracking and delivery  
+  - Streamlined billing and insurance claims  
 
-Healthcare Providers
+---
 
-Doctor-patient communication
+## 🛠️ What I Built  
 
-Pharmacy integration for prescriptions and deliveries
+- Designed **functional and non-functional requirements**  
+- Created the **system prototype** and database design (**ER/EER models**)  
+- Built the **backend database in MySQL**, including:  
+  - Tables and relationships  
+  - Constraints  
+  - Test data records  
 
-Lab and radiology coordination
+---
 
-Billing and insurance processing
+## 🎯 Purpose  
 
-Pharmacy & Billing
+The goal of **WellnessWay** is to provide a **unified telemedicine platform** that improves patient care, streamlines provider workflows, and ensures smooth collaboration across the healthcare ecosystem.  
 
-Medication tracking and delivery
+---
 
-Streamlined billing and insurance claims
+## ⚙️ Tech Stack  
 
-🛠️ What I Built
+- **Database**: MySQL  
+- **Modeling**: ER/EER diagrams  
+- **Design**: Prototyping tools (e.g., draw.io, proto.io)  
+- **Methodology**: Software Engineering principles (requirements, design, implementing "DB" testing)  
 
-Designed functional and non-functional requirements.
+---
 
-Created the system prototype and database design (ER/EER models).
+## 🚀 Future Work  
 
-Built the backend database in MySQL, implementing:
+- Frontend implementation for patient and provider portals  
+- AI-driven prescription and appointment recommendations  
+- Mobile application for easier access to healthcare services  
 
-Tables & relationships
+---
 
-Constraints
-
-Test data records
-
-🎯 Purpose
-
-The goal of WellnessWay is to provide a unified telemedicine platform that improves patient care, streamlines provider workflows, and ensures smooth collaboration across the healthcare ecosystem.
-
-⚙️ Tech Stack
-
-Database: MySQL
-
-Modeling: ER/EER diagrams
-
-Design: Prototyping tools (e.g., Figma, Balsamiq – update if applicable)
-
-Methodology: Software Engineering principles (requirements, design, testing)
-
-🚀 Future Work
-
-Frontend implementation for patient and provider portals
-
-AI-driven prescription and appointment recommendations
-
-Mobile application for easier access to healthcare services
